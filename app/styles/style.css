@@ -1,0 +1,27 @@
+span.letter {
+    margin-left: 6px;
+}
+.bubble {
+    position : relative;
+    top: 300px;
+    width: 40px;
+    height: 40px;
+    background: blue;
+    color: #fff;
+    font-size: 24pt;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #a44fe9;
+    border: 2px solid #efefef;
+    box-shadow: 2px 3px rgba(0, 0, 0, 0.3);
+}
+.circle {
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#bubbles {
+	min-height: 600px;
+}
